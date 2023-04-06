@@ -1,4 +1,4 @@
-### Eduardo Claudino
+### Eduardo Claudino de Carvalho
 - Data Scientist & Backend Developer (Cientista de Dados & Desenvolvedor Backend)
 
 
