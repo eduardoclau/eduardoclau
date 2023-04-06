@@ -1,21 +1,17 @@
 ### Eduardo Claudino
 - Data Scientist & Backend Developer (Cientista de Dados & Desenvolvedor Backend)
-##
-##WHO AM I ?
+
+
+### WHO AM I ?
 
 - Data Science Student at UFMS - Universidade Federal de Mato Grosso do Sul, in Brazil.
 - Software Engineering student at UNINTER, in Brazil.
 
-###Tittle
-info
-- Item
-- Item
-- Item
-##
+
 ### Contato:
 - ✉️ E-mail: contatoeduardoclaudecarvalho@gmail.com
 - 📱 (48) 9 9145-2795
-- <a herf="https://www.linkedin.com/in/eduardo-claudino-de-carvalho-a59314204" target="_blank"><img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+- <a herf="https://www.linkedin.com/in/eduardo-claudino-de-carvalho-a59314204" target="_blank"><img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 ##
 <div style="inline_block">
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
