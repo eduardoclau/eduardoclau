@@ -1,5 +1,5 @@
 ### Eduardo Claudino de Carvalho
-- Data Scientist & Backend Developer (Cientista de Dados & Desenvolvedor Backend)
+- Data Scientist & Fullstack Developer (Cientista de Dados & Desenvolvedor Fullstack)
 
 
 ### WHO AM I ?
