@@ -10,7 +10,6 @@
 
 ### Contact:
 - ✉️ E-mail: contatoeduardoclaudecarvalho@gmail.com
-- 📱 (48) 9 9145-2795
 - <a herf="https://www.linkedin.com/in/eduardo-claudino-de-carvalho-a59314204" target="_blank"><img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 ##
 <div style="inline_block">
