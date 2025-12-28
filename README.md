@@ -4,7 +4,7 @@
 
 ### WHO AM I ?
 
-- Data Science Student at UFMS - Universidade Federal de Mato Grosso do Sul, in Brazil.
+- Data Science at UFMS - Universidade Federal de Mato Grosso do Sul, in Brazil.
 - Software Engineering Student at UNINTER, in Brazil.
 
 
