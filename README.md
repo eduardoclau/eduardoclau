@@ -1,30 +1,48 @@
-### Eduardo Claudino de Carvalho
-- Data Scientist & Software Engineer | Cientista de Dados & Engenheiro de Software
+## 👋 Hi, I'm Eduardo Claudino de Carvalho
 
+**Data Scientist & Software Engineer**  
+*Cientista de Dados & Engenheiro de Software*
 
-### WHO AM I ?
+---
 
-- Data Science at UFMS - Universidade Federal de Mato Grosso do Sul, in Brazil.
-- Software Engineering Student at UNINTER, in Brazil.
+## 👨‍💻 Who am I?
 
+- 🎓 **Data Science** at **UFMS** – Universidade Federal de Mato Grosso do Sul (Brazil)  
+- 🎓 **Software Engineering** student at **UNINTER** (Brazil)  
+- 💡 Interested in **Data Science applied to business**, **financial analytics**, and **web systems**
 
-### Contact:
-- - <a href="https://eduardoclaudino.vercel.app/" target="_blank">My website</a>
-- <a href="https://www.linkedin.com/in/eduardo-claudino-de-carvalho-a59314204" target="_blank"><img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+---
 
-##
-<div style="inline_block">
-  <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/django/django-plain.svg" />
-  <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
-  <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img align="center" height="40" width="60" src="https://img.icons8.com/external-becris-flat-becris/64/external-r-data-science-becris-flat-becris.png" />
-  <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
-  
-  
+## 🔗 Contact
 
+- 🌐 [My Website](https://eduardoclaudino.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/eduardo-claudino-de-carvalho-a59314204)
 
+---
+
+## 🚀 Tech Stack
+
+### 🌐 Web Development
+
+<div align="left">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
 </div>
+
+---
+
+### 📊 Data Science & Machine Learning
+
+<div align="left">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"/>
+  <img height="40" src="https://img.icons8.com/external-becris-flat-becris/64/external-r-data-science-becris-flat-becris.png"/>
+</div>
+
+---
