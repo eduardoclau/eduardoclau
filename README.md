@@ -35,7 +35,7 @@
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
 </div>
 
-**Backend:** C#, .NET 8, **ASP.NET Core (Web API & MVC)**  
+**Backend:** C#, .NET, **ASP.NET Core (Web API & MVC)**  
 **Cloud:** Azure  
 **Frontend:** React, TypeScript  
 **Databases:** SQL Server, MySQL, PostgreSQL, MongoDB
