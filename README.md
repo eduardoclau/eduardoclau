@@ -22,7 +22,7 @@
 
 ## 🚀 Tech Stack
 
-### 🌐 Web Development
+### 🌐 Web Development (Backend & Frontend)
 
 <div align="left">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
@@ -35,6 +35,11 @@
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
 </div>
 
+**Backend:** C#, .NET 8, **ASP.NET Core (Web API & MVC)**  
+**Cloud:** Azure  
+**Frontend:** React, TypeScript  
+**Databases:** SQL Server, MySQL, PostgreSQL, MongoDB
+
 ---
 
 ### 📊 Data Science & Machine Learning
@@ -44,5 +49,7 @@
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"/>
   <img height="40" src="https://img.icons8.com/external-becris-flat-becris/64/external-r-data-science-becris-flat-becris.png"/>
 </div>
+
+**Stack:** Python, FastAPI, R, Machine Learning, Data Analysis
 
 ---
