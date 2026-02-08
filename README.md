@@ -46,10 +46,26 @@
 
 <div align="left">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"/>
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg"/>
   <img height="40" src="https://img.icons8.com/external-becris-flat-becris/64/external-r-data-science-becris-flat-becris.png"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"/>
 </div>
 
-**Stack:** Python, FastAPI, R, Machine Learning, Data Analysis
+**Languages & Tools:**  
+- Python, R  
+- Jupyter Notebook, **Google Colab**  
+- **Databricks** (Spark-based analytics)  
+- FastAPI (ML APIs & Model Serving)
+
+**Libraries & Skills:**  
+- Pandas, NumPy  
+- Scikit-learn  
+- Statistical Analysis  
+- Feature Engineering  
+- Model Evaluation & Validation  
+- Data Visualization  
+
 
 ---
