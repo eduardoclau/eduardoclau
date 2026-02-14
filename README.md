@@ -33,11 +33,12 @@
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"/>
 </div>
 
 **Backend:** C#, .NET, **ASP.NET Core (Web API & MVC)**  
 **Cloud:** Azure  
-**Frontend:** React, TypeScript  
+**Frontend:** React, TypeScript, Vercel  
 **Databases:** SQL Server, MySQL, PostgreSQL, MongoDB
 
 ---
